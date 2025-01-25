@@ -1,0 +1,15 @@
+__metadata:
+    version: 1
+
+modpack:
+  name: modpack-template
+  version: 1.0.0
+  minecraft: 1.21.1
+
+"modloader:neoforge@1.21.97":
+  name: neoforge
+  version: 1.21.97
+
+"mod:replanting-crops":
+  projectID: 367051
+  fileID: 5609486

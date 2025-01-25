@@ -1,0 +1,12 @@
+{
+  "name": "modpack-template",
+  "version": "1.0.0",
+  "author": "Jaron Zijlstra",
+  "modloaders": [{
+    "name": "neoforge",
+    "version": "21.1.97"
+  }],
+  "minecraft": {
+    "version": "1.21.1"
+  }
+}
